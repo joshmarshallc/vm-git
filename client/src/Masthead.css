@@ -1,0 +1,8 @@
+.masthead_container{
+    display: flex;
+    height: 640px;
+}
+
+.masthead{
+    margin: auto;
+}
